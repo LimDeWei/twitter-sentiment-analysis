@@ -85,11 +85,11 @@ The project includes:
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 Among all experiments, **TF-IDF + Random Forest** achieved the best performance. This suggests that combining weighted text representation with an ensemble model provides a more effective approach for sentiment classification.
 
-## 📂 Project Structure
+## Project Structure
 
 Twitter-Sentiment-Analysis/
 │── data/
