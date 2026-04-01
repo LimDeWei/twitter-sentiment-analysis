@@ -27,7 +27,7 @@ These steps help reduce noise and improve model performance.
 
 In addition, the target labels are transformed into numerical format using **Label Encoding**, allowing machine learning models to process the sentiment classes.
 
-## 🔍 Feature Extraction
+## Feature Extraction
 
 Two main text representation techniques are used:
 
