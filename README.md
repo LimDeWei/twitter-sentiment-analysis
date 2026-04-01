@@ -107,6 +107,7 @@ Twitter-Sentiment-Analysis/
    cd twitter-sentiment-analysis
 
 2. Install dependencies:
+
    pip install -r requirements.txt
 
 3. Open the notebook using Jupyter Notebook or VS Code
