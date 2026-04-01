@@ -101,7 +101,9 @@ Twitter-Sentiment-Analysis/
 ## How to Run
 
 1. Clone the repository:
+
    git clone https://github.com/LimDeWei/twitter-sentiment-analysis.git
+
    cd twitter-sentiment-analysis
 
 2. Install dependencies:
